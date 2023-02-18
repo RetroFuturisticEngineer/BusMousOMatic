@@ -13,18 +13,18 @@ Supported types are:
 - CN1: Mouse Input for Commodore or Atari (D9M on the board, D9F on the mouse)
 
 - CN2: Mouse Output (can also be used as Input with a gender changer) D9M:
-  Position Amiga: Commodore Amiga Series, PC1, PC10-III, PC20-III, Colt
-  Position Atari: Atari ST Series, Atari PC with Atari Bus Mouse Port
-  Position Amstrad: Amstrad/Schneider PC1512, PC1640, Sinclair PC-200
+  - Position Amiga: Commodore Amiga Series, PC1, PC10-III, PC20-III, Colt
+  - Position Atari: Atari ST Series, Atari PC with Atari Bus Mouse Port
+  - Position Amstrad: Amstrad/Schneider PC1512, PC1640, Sinclair PC-200
   
 - CN3: Mouse Output (can also be used as Input with a gender changer) D9F:
-  Position Lisa: Apple Lisa
-  Position PC98: NEC PC-98
+  - Position Lisa: Apple Lisa
+  - Position PC98: NEC PC-98
   
 - CN4: Mouse Output (can also be used as Input) Mini-DIN 9:
-  Position InPort: Microsoft InPort
-  Position Archimedes: Acorn Archimedes
-  Position Headstart: Headstart Computers (e.g. Headstart Explorer)
+  - Position InPort: Microsoft InPort
+  - Position Archimedes: Acorn Archimedes
+  - Position Headstart: Headstart Computers (e.g. Headstart Explorer)
   
 - CN5: Mouse Output (can also be used as Input) Mini-DIN 8:
-  Position NeXT: NeXT Cube (Non-ADB Version)
+  - Position NeXT: NeXT Cube (Non-ADB Version)
