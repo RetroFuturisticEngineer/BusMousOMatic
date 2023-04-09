@@ -15,12 +15,12 @@ Supported types are:
 
 - CN1: Mouse Input for Commodore or Atari (D9M on the board, D9F on the mouse)
 
-- CN2: Mouse Output (can also be used as Input with a gender changer) D9M:
+- CN2: Mouse Output (can also be used as Input with a gender changer) (D9F on the board/mouse, D9M on the host):
   - Position Amiga: Commodore Amiga Series, PC1, PC10-III, PC20-III, Colt
   - Position Atari: Atari ST Series, Atari PC with Atari Bus Mouse Port
   - Position Amstrad: Amstrad/Schneider PC1512, PC1640, Sinclair PC-200
   
-- CN3: Mouse Output (can also be used as Input with a gender changer) D9F:
+- CN3: Mouse Output (can also be used as Input with a gender changer) (D9M on the board/mouse, D9F on the host):
   - Position Lisa: Apple Lisa
   - Position PC98: NEC PC-98
   
