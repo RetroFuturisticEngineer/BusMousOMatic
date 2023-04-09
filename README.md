@@ -1,6 +1,6 @@
 # BusMousOMatic
 
-Update 1 changelog: Improved Silkscreen (part descriptions wherever connections go, correction of the DB9 connector gender), added STL and FreeCAD for a basic 3D-printed base plate (a fully enclosed case does not make sense for this project, but at least the solder joints don't touch a potentially conductive surface it is placed on), added BOM for TME (tme.eu) for 5 boards (the minimum amount of PCBs you can order at PCBWay, JLCPCB and similar)
+Update 1 changelog: Improved Silkscreen (part descriptions wherever connections go, correction of the DB9 connector gender), added STL and FreeCAD for a basic 3D-printed base plate (a fully enclosed case does not make sense for this project, but at least the solder joints don't touch a potentially conductive surface it is placed on), added BOM for TME (tme.eu) for 5 boards (the minimum amount of PCBs you can order at PCBWay, JLCPCB and similar), separately uploaded Excel Sheet for connector pinouts instead of including it in the main RAR archive
 
 Passive PCB (KiCAD Project) that let's you adapt any Bus Mouse type to anything
 BusMousOMatic is a passive PCB that converts various Bus Mouse types to others. A Bus Mouse is a mouse that uses quadrature coding (X/XQ, Y/YQ) directly on the mouse connector.
